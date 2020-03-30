@@ -4,6 +4,8 @@
 ### On Coding Styles 
 <img src="https://pics.me.me/tabs-not-spaces-how-to-get-attention-29408384.png"  width="30%" alt="tab or space">
 
+[image source](https://pics.me.me/tabs-not-spaces-how-to-get-attention-29408384.png)
+
 * the classic debate on `tab` or `space` 
   * usage
    ```
@@ -14,6 +16,8 @@
 
 ### On Editor Wars
 <img src="https://imgs.xkcd.com/comics/real_programmers.png" width="30%" alt="xkcd comic">
+
+[image source](https://imgs.xkcd.com/comics/real_programmers.png)
 
 * real programenrs use `(emacs | vim | vscode | nano )`
   * usage
