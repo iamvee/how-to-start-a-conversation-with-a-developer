@@ -8,24 +8,49 @@
 
 * the classic debate on `tab` or `space` 
   * usage
+  
    ```
    ice-breaker       : can you believe there's a bunch of people out there telling "tab"
                        is better than "space"? that's insane!
    victim (developer): yeah, that's unbeliveable! Even if ... (the conversation continues...)
    ```
 
+
+
+* arguing about naming conventions 
+
+  * usage
+
+   ```
+   ice-breaker       : camel case is awesome but have you ever tried fUckIng cAsE? it looks intresting. 
+   victim (developer): yes, good idea, it prettify the code and... (the conversation continues...)
+   ```
+
+
+
+------------------------------------------
+
+
+
 ### On Editor Wars
+
 <img src="https://imgs.xkcd.com/comics/real_programmers.png" width="30%" alt="xkcd comic">
 
 [image source](https://imgs.xkcd.com/comics/real_programmers.png)
 
-* real programenrs use `(emacs | vim | vscode | nano )`
+* real programmers use `(emacs | vim | vscode | atom | nano )`
   * usage
    ```
    ice-breaker       : You are using emacs dude! Amazing
    victim (developer): yeah, , you know what, emacs is the god of editors. 
                         not compareable to anything else, ....
    ```
+
+
+
+--------------------------------------------------------------
+
+
 
 ### On Programming Languages
 
@@ -37,11 +62,25 @@
                          the type response, well, depends on victim's attitude toward js >
    ```
 
-  * usage 2:
-    ``` 
+  * usage 2
+    
+    ```
     A: C-sharp is nothing but a microsoft-ish implementation of java
     ```
     
+  * usage 3
+    
+    ``` 
+    A: python is so much convenient and easy to read&write but it is all basec on C
+    ```
+    
+
+### 
+
+-------------------------------------------------
+
+
+
 ### On Their Prefrences
 
 * favorite desktop enviorment (linux users)
@@ -70,11 +109,16 @@
     ```
 
 
+
+-----------------------------------------------
+
+
+
 ### On Advanced Concepts of Programming Languages:
 
 * object oriented programming
   
-  * multiple inheritence 
+  * multiple inheritance 
     ```
     A: multiple inheritence is awful. I don't recommand it!
     ```
