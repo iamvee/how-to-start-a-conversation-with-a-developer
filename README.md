@@ -1,5 +1,14 @@
 # How to Start Conversation With A Developer
-## A List of Popular/Controversial Topics
+
+_A List of Popular/Controversial Topics_
+
+## Contents
+
+* [On Coding Styles](#on-coding-styles)
+* [On Editor Wars](#on-editor-wars)
+* [On Programming Languages](#on-programming-languages)
+* [On Their Prefrences](#on-their-prefrences)
+* [On Advanced Concepts of Programming Languages](#on-advanced-concepts-of-programming-languages)
 
 ### On Coding Styles 
 <img src="https://pics.me.me/tabs-not-spaces-how-to-get-attention-29408384.png"  width="30%" alt="tab or space">
@@ -34,7 +43,7 @@
 
 ### On Editor Wars
 
-<img src="https://imgs.xkcd.com/comics/real_programmers.png" width="30%" alt="xkcd comic">
+<img src="https://imgs.xkcd.com/comics/real_programmers.png" width="50%" alt="xkcd comic">
 
 [image source](https://imgs.xkcd.com/comics/real_programmers.png)
 
@@ -75,7 +84,7 @@
     ```
     
 
-### 
+
 
 -------------------------------------------------
 
@@ -114,7 +123,7 @@
 
 
 
-### On Advanced Concepts of Programming Languages:
+### On Advanced Concepts of Programming Languages
 
 * object oriented programming
   
