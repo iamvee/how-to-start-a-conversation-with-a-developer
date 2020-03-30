@@ -9,8 +9,8 @@
 * the classic debate on `tab` or `space` 
   * usage
    ```
-   ice-breaker       : can you believe there's a bunch of people out there telling `tab` 
-                       is better than `space`? that's insane!
+   ice-breaker       : can you believe there's a bunch of people out there telling "tab"
+                       is better than "space"? that's insane!
    victim (developer): yeah, that's unbeliveable! Even if ... (the conversation continues...)
    ```
 
