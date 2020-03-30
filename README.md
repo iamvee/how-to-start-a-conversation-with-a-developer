@@ -1,7 +1,7 @@
 # How to Start Conversation With A Developer
 ## A List of Popular/Controversial Topics
 
-### Coding Styles 
+### On Coding Styles 
 <img src="https://pics.me.me/tabs-not-spaces-how-to-get-attention-29408384.png"  width="30%" alt="tab or space">
 
 * the classic debate on `tab` or `space` 
@@ -12,7 +12,7 @@
    victim (developer): yeah, that's unbeliveable! Even if ... (the conversation continues...)
    ```
 
-### Editor Wars
+### On Editor Wars
 <img src="https://imgs.xkcd.com/comics/real_programmers.png" width="30%" alt="xkcd comic">
 
 * real programenrs use `(emacs | vim | vscode | nano )`
@@ -23,7 +23,7 @@
                         not compareable to anything else, ....
    ```
 
-### Programming Languages
+### On Programming Languages
 
 * ask if they love or hate `javascript`
   * usage
@@ -38,7 +38,7 @@
     A: C-sharp is nothing but a microsoft-ish implementation of java
     ```
     
-### Prefrences
+### On Their Prefrences
 
 * favorite desktop enviorment (linux users)
   * usage
@@ -66,7 +66,7 @@
     ```
 
 
-### more advanced topics on programming languages:
+### On Advanced Concepts of Programming Languages:
 
 * object oriented programming
   
