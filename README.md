@@ -80,7 +80,7 @@ _A List of Popular/Controversial Topics_
   * usage 3
     
     ``` 
-    A: python is so much convenient and easy to read&write but it is all basec on C
+    A: python is so much convenient and easy to read&write but it is all based on C
     ```
     
 
@@ -114,7 +114,7 @@ _A List of Popular/Controversial Topics_
 
   * usage 1
     ```
-    A: functional programming is the right way if writing codes
+    A: OOP sucks, functional programming is the right way of writing codes
     ```
 
 
