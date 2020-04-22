@@ -30,10 +30,10 @@ _A List of Popular/Controversial Topics_
 
   * usage
 
-   ```
-   ice-breaker       : camel case is awesome but have you ever tried fUckIng cAsE? it looks intresting. 
-   victim (developer): yes, good idea, it prettify the code and... (the conversation continues...)
-   ```
+    ```
+    ice-breaker       : camel case is awesome but have you ever tried fUckIng cAsE? it looks intresting. 
+    victim (developer): yes, good idea, it prettify the code and... (the conversation continues...)
+    ```
 
 
 
@@ -48,12 +48,16 @@ _A List of Popular/Controversial Topics_
 [image source](https://imgs.xkcd.com/comics/real_programmers.png)
 
 * real programmers use `(emacs | vim | vscode | atom | nano )`
-  * usage
-   ```
-   ice-breaker       : You are using emacs dude! Amazing
-   victim (developer): yeah, , you know what, emacs is the god of editors. 
-                        not compareable to anything else, ....
-   ```
+  * usage 1
+    ```
+    ice-breaker       : You are using emacs dude! Amazing
+    victim (developer): yeah, , you know what, emacs is the god of editors. 
+                          not compareable to anything else, ....
+    ```
+  * usage 2
+    ```
+    A: {vscode, atom, vim} is not even an editor, you know?
+    ```
 
 
 
@@ -65,11 +69,11 @@ _A List of Popular/Controversial Topics_
 
 * ask if they love or hate `javascript`
   * usage
-   ```
-   ice-breaker       : javascript is a good thing, but it would be great if there was <...>
-   victim (developer): < Guaranteed to initiate a conversation, 
-                         the type response, well, depends on victim's attitude toward js >
-   ```
+    ```
+    ice-breaker       : javascript is a good thing, but it would be great if there was <...>
+    victim (developer): < Guaranteed to initiate a conversation, 
+                          the type response, well, depends on victim's attitude toward js >
+    ```
 
   * usage 2
     
@@ -125,15 +129,23 @@ _A List of Popular/Controversial Topics_
 
 ### On Advanced Concepts of Programming Languages
 
-* object oriented programming
+* Object Oriented Programming
   
   * multiple inheritance 
     ```
     A: multiple inheritence is awful. I don't recommand it!
     ```
 
-* design patterns
+* Design Patterns
   * usage 1:
     ```
     A: design patterns are real pain dude! it slaughters the creativity.
+    ```
+
+* Architectural Concepts and Project Structure
+  * usage 1:
+    ```
+    A: I'd rather prefer to define two separate type of classes in my project
+       one of them is just a data-model and the other one will be responsible
+       for operational things, say, load(), get() , ... 
     ```
