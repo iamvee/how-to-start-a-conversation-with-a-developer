@@ -109,14 +109,14 @@ _A List of Popular/Controversial Topics_
     ```
 
 * linux distro prefrences
-  * usage 1
+  * usage
     ```
     A: arch is better than debian
     ```
 
 * type of language prefrences
 
-  * usage 1
+  * usage
     ```
     A: OOP sucks, functional programming is the right way of writing codes
     ```
